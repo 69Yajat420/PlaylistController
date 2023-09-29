@@ -13,9 +13,9 @@ public class Main {
         String songName = "";
         boolean inputType = true;
         String sortOrder = "";
-
+        System.out.println("\nWelcome to the Song Manager");
         do {
-            System.out.println("\nWelcome to the Song Manager");
+            System.out.println("\nSong Manager");
             System.out.println("-----------------------------------------------");
             System.out.println("1. Add a song. \t 2. Remove a song.");
             System.out.println("3. Current track. \t 4. Skip ahead.");
